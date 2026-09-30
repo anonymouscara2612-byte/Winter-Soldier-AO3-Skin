@@ -1,4 +1,4 @@
-# Winter-Soldier-Bucky-Barnes-AO3-Skin
+# Winter-Soldier-AO3-Skin
 **How To Add Skin:**
  
 1. Copy the code
